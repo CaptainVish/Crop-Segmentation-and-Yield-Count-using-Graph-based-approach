@@ -27,5 +27,5 @@ Python command:
 
 > python interactiveSegmentation.py  [original image Path]
 
-Refer [Real Time Segmentation](https://github.com/techiepanda/Image-segmentation-using-SLIC-superpixels-and-graph-cuts/blob/master/Real%20Time%20Segmentation.mov) to see the working example.
+
 
