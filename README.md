@@ -25,8 +25,7 @@ By default Foreground mode is set. Use following keys to interact with window:
 
 Python command:
 
-> jupyter notebook
-> open Crop-Segmentation-and-Yield-Count-using-Graph-based-approach
+> jupyter notebook Crop-Segmentation-and-Yield-Count-using-Graph-based-approach
 
 
 
