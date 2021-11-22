@@ -25,7 +25,8 @@ By default Foreground mode is set. Use following keys to interact with window:
 
 Python command:
 
-> python interactiveSegmentation.py  [original image Path]
+> jupyter notebook
+> open Crop-Segmentation-and-Yield-Count-using-Graph-based-approach
 
 
 
