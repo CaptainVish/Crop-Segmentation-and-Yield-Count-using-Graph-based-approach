@@ -1,6 +1,8 @@
 # Crop-Segmentation-and-Yield-Count-using-Graph-based-approach
 
-Implemented code for semi-automatic binary segmentation based on SLIC superpixels and graph-cuts. 
+Implemented code for semi-automatic binary segmentation based on SLIC superpixels and graph-cuts.Image Segmentation is dividing an image into meaningful non overlapping regions, according to some objective criterion, homogeneity in some feature space or separability in some other. It eliminates unwanted background and produce the foreground image of the nuts making the counting of clustered nuts easier.
+
+The analysation of natural images and estimating the total count available is an important task in computer vision applications. Arecanut images are natural images, and analysis of these images plays an important role in the Indian market. To count the areca visual descriptors of an image are used. There are several automated techniques available for other fruits and crops, but no technique is available for identifying the arecanuts in bunches before harvesting. Thus, such an identification system is needed.
 
 # Static Segmentation:
 
