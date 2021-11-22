@@ -23,6 +23,8 @@ By default Foreground mode is set. Use following keys to interact with window:
 
 'q' - Quit
 
+'s' - save image
+
 Python command:
 
 > jupyter notebook Crop-Segmentation-and-Yield-Count-using-Graph-based-approach
